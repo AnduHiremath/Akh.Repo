@@ -3,8 +3,8 @@
  */
 public class addition {
 public static int add() {
-    int a = 10;
-    int b = 20;
+    int a = 70;
+    int b = 60;
 
     int sum = a+b;
     return sum;
